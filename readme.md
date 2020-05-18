@@ -1,26 +1,26 @@
-# this is a large heading
-## this is a smaller heading
+# gayathry12
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-turns them to shapes and gives to airy nothing,
-a local *habitation* and a **name**.
+### Geography
 
-- This is
-- an unordered
-- list
+I live in the city of destiny, in the state of A.P, in India.
 
-1. This is
-2. an ordered
-3. list
+### Reading
 
-Here is `some code` in the middle of a sentence.
+Three of my favourite books are:
 
-```
-This is
-a block
-of code
-```
+- *half girlfriend* by Chethan bagath
+- *can love happens twice* by Ravinder singh
+- *two states* by Chethan bagath
 
-Here is how you make [a link](https://www.wikipedia.org/).
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Travelling
+
+last night i dreamt about visiting these places:
+
+1. botanical gardens in kolkota.
+2. nasik and lonaval in mumbai.
+3. birlamandir in hyderabad.
+
+### Contact
+
+The best way to get in touch with me is [on instagram](https://instagram.com/birlangigayathry).
+
