@@ -1,4 +1,5 @@
 this is first line
 this is second line 
 this is added line to file
-added line in my-extra-feature
+added anotherline in my-extra-feature
+
